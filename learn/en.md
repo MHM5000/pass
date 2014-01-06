@@ -10,6 +10,10 @@
 + Double check ```chmod``` of your files and folders.
 + Your partner(designer) will use the same validation as you, but with javascript. You should run the server-side validation, too. You [can't trust](https://en.wikipedia.org/wiki/User_agent#User_agent_spoofing) user-agent.
 + Use [strong](#for-everybody) passwords for accessing the developping land! After all you are an important person.
++ Use hash functions, not encryption functions. They aren't safe.
+    + ```bcrypt``` -> [How to safely store a password](http://codahale.com/how-to-safely-store-a-password/) / Also read [this](http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage)
+    + ```scrypt```
++ Create a delay for those who want to attack your site. Choose the delay carefully. Also Ban their IP after a while for a while.
 
 ## For Designers
 
