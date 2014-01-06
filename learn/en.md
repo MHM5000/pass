@@ -21,8 +21,8 @@
 Since Security is an important thing, I've added some recomendation for you about security, too.
 + A great password is:
     + long -> [xkcd.com/936/](http://xkcd.com/936/)
-    + simple to remember -> Explanation 
-    + something that nobody can guess it. ->
+    + simple to remember.
+    + something that nobody can guess it.
     + different than other important passwords --> some site/forums force you to join for a little information! use same password for all of those sites. But use a STRONG password for your Banking Account and important files.
 + Make sure there is no software/hardware keylogger on your system.
 + Make sure you are connected to a [safe Internet](https://en.wikipedia.org/wiki/Firesheep). Read [this](http://readwrite.com/2010/10/25/at_a_cafe_i_can_hack_your_facebook_twitterwith_a_f), too
