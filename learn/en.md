@@ -10,3 +10,8 @@
 + Double check ```chmod``` of your files and folders.
 + Your partner(designer) will use the same validation as you, but with javascript. You should run the server-side validation, too. You [can't trust](https://en.wikipedia.org/wiki/User_agent#User_agent_spoofing) user-agent.
 + Use [strong](#for-everybody) passwords for accessing the developping land! After all you are an important person.
+
+## For Designers
+
++ Although there is a backend for validation, Javascript could do it's job and disable submit button until there is valid password. But don't worry. Backend would do it's job anyway.
++ Make the validation [inline](http://www.goodui.org/index_b.html#33).
