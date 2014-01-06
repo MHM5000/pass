@@ -1,7 +1,5 @@
-Password World
+![Password world logo](/assets/Pass-Logo-128-Orange.png)
 ---
-
-![Password world logo](/assets/Pass-Logo-128.png)
 
 **Go ahead and [Learn](/learn/) everything you need to know about passwords in your language**
 
