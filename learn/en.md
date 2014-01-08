@@ -21,6 +21,11 @@
     + U+0000 (Null)
     + U+202e -> [explainxkcd.com](http://www.explainxkcd.com/wiki/index.php/1137:_RTL)
     + Depending to if you have character limits(ASCII,...) [don't allow other Unicodes](http://security.stackexchange.com/questions/5694/why-limit-passwords-to-ascii-printable-characters), too.
++ You can provide a third thing:
+    + Use 2 factor Auth (SMS)
+    + Second password (pass1, pass2)
+    + Second username (known_username = what others see, unknown_username = for login)
+    + Login with email (which you'll stop user from sharing that email in site -> It looks like paranoia, but some systems may need such a thing!)
 
 ## For Designers
 
