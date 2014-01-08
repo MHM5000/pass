@@ -13,7 +13,9 @@
 + Use hash functions, not encryption functions. They aren't safe.
     + ```bcrypt``` -> [How to safely store a password](http://codahale.com/how-to-safely-store-a-password/) / Also read [this](http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage)
     + ```scrypt```
-+ Create a delay for those who want to attack your site. Choose the delay carefully. Also Ban their IP after a while for a while.
++ Create delays:
+    + Add punishment! If a user can't login after trying 20 times(It depends on importance of your system), punish them for about an hour or like that...
+    + Force a delay for each login, like 5 seconds. Users won't feel it, but an Attacker 
 + Don't allow these in Password:
     + common passwords (```apple```, ```password```, ```aaaaaaaaaaa```, etc.)
     + U+0000 (Null)
