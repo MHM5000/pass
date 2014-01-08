@@ -14,6 +14,11 @@
     + ```bcrypt``` -> [How to safely store a password](http://codahale.com/how-to-safely-store-a-password/) / Also read [this](http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage)
     + ```scrypt```
 + Create a delay for those who want to attack your site. Choose the delay carefully. Also Ban their IP after a while for a while.
++ Don't allow these in Password:
+    + common passwords (```apple```, ```password```, ```aaaaaaaaaaa```, etc.)
+    + U+0000 (Null)
+    + U+202e -> [explainxkcd.com](http://www.explainxkcd.com/wiki/index.php/1137:_RTL)
+    + Depending to if you have character limits(ASCII,...) [don't allow other Unicodes](http://security.stackexchange.com/questions/5694/why-limit-passwords-to-ascii-printable-characters), too.
 
 ## For Designers
 
