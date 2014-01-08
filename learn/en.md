@@ -36,3 +36,4 @@ Since Security is an important thing, I've added some recomendation for you abou
 + Make sure there is no software/hardware keylogger on your system.
 + Make sure you are connected to a [safe Internet](https://en.wikipedia.org/wiki/Firesheep). Read [this](http://readwrite.com/2010/10/25/at_a_cafe_i_can_hack_your_facebook_twitterwith_a_f), too
 + Since handheld devices(Tablet, Smart Phones, etc.) show each character when you type a password and then make a ```*```, be sure that nobody's watching you when you type your password.
++ What is weak password in [video](http://vooza.com/videos/weak-password/) - from Vooza
