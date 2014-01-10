@@ -11,6 +11,13 @@ Developers, designers and common people have different kind of concerns when it 
 
 This repo could become something more than a simple Markdown storage of how passwords should be handled. You can make different algorithms for different parts of this repo or even make a ```handle-password``` file in your preferred programming language.
 
+### How to Share
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/MHM5000/pass)
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/MHM5000/pass&p[images][0]=https://github.com/MHM5000/pass/raw/master/assets/Pass-Logo-128-Orange.png&p[title]=How%20to%20deal%20with%Passwords&p[summary]=)
++ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/MHM5000/pass)
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/MHM5000/pass&title=How%20to%20deal%20with%Passwords&summary=&source=)
+
+
 ## Contribution
 
 + Translation : All you need is [basic knowledge](http://try.github.io/) of working with github and 2 languages(if one of them is English, I'll be more happy) to strat translating/correcting. Make sure you follow [ISO 639](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
