@@ -1,4 +1,4 @@
-![Password world logo](assets/Pass-Logo-128-Orange.png)
+[![Password world logo](assets/Pass-Logo-128-Orange.png)](https://github.com/MHM5000/pass)
 ---
 
 **Go ahead and [Learn](/learn/) everything you need to know about passwords in your language**
