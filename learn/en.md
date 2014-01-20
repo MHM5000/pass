@@ -36,6 +36,7 @@
 
 Since Security is an important thing, I've added some recomendation for you about security, too.
 + A great password is:
+    + Don't use obvious passwords like [this](http://gizmodo.com/the-25-most-popular-passwords-of-2013-god-help-us-1504852434)
     + long -> [xkcd.com/936/](http://xkcd.com/936/)
     + simple to remember.
     + something that nobody can guess it.
