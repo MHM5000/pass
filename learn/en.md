@@ -39,7 +39,7 @@ Since Security is an important thing, I've added some recomendation for you abou
     + Don't use obvious passwords like [this](http://gizmodo.com/the-25-most-popular-passwords-of-2013-god-help-us-1504852434)
     + long -> [xkcd.com/936/](http://xkcd.com/936/)
     + simple to remember.
-    + something that nobody can guess it.
+    + something that nobody can guess.
     + different than other important passwords --> some site/forums force you to join for a little information! use same password for all of those sites. But use a STRONG password for your Banking Account and important files.
 + Make sure there is no software/hardware keylogger on your system.
 + Make sure you are connected to a [safe Internet](https://en.wikipedia.org/wiki/Firesheep). Read [this](http://readwrite.com/2010/10/25/at_a_cafe_i_can_hack_your_facebook_twitterwith_a_f), too
